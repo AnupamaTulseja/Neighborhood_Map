@@ -1,7 +1,7 @@
 // Global Variables
 
 // Creates a global map marker
-var map
+var map;
 // Declaring Global clientID & secret for Foursquare API
 var clientID, clientSecret;
 
